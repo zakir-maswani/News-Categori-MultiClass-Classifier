@@ -227,10 +227,3 @@ pip install -r requirements.txt
 
 # Launch the notebook
 jupyter notebook notebooks/model_comparison.ipynb
-```
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
