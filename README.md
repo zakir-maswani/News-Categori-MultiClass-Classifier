@@ -23,7 +23,7 @@
 
 ## Overview
 
-𝗟𝗶𝘃𝗲 𝗔𝗽𝗹: https://news-categori-multiclass-classifier.streamlit.app/
+𝗟𝗶𝘃𝗲 𝗔𝗽𝗽: https://news-categori-multiclass-classifier.streamlit.app/
 
 This report presents a comparative analysis of four machine learning classifiers for **news category classification**. The objective is to evaluate algorithm performance on a synthetic, intentionally noisy dataset and identify the most suitable model for real-world deployment — benchmarking against the baseline Multinomial Naive Bayes classifier.
 
